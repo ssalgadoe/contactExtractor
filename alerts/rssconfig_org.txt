@@ -1,0 +1,18 @@
+folder=security
+folderdesc=security alerts
+<keywords-start>
+militant=10
+shooter=8
+bomber=10
+islamic=6
+<keywords-end>
+
+<rssFeedList>
+BBC World<!!3!!>10<!!3!!> http://feeds.bbci.co.uk/news/world/europe/rss.xml
+France 24 <!!3!!>8<!!3!!> http://www.france24.com/en/europe/rss
+The Guardian <!!3!!>15<!!3!!>http://www.theguardian.com/world/europe-news/rss
+Time of India <!!3!!>20<!!3!!>http://timesofindia.feedsportal.com/c/33039/f/533995/index.rss
+CBC <!!3!!>12<!!3!!>http://www.cbc.ca/cmlink/rss-world
+Reuters <!!3!!>14<!!3!!>http://mf.feeds.reuters.com/reuters/UKWorldNews
+CNN  <!!3!!>12<!!3!!> http://rss.cnn.com/rss/cnn_world.rss
+CNN USA  <!!3!!>18<!!3!!>http://rss.cnn.com/rss/cnn_us.rss

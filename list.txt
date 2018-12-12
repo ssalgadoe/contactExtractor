@@ -1,0 +1,5 @@
+http://www.mae.ro/en/foreign-missions/3483#868<!!3!!>address,phone,fax,website,working hours<!!3!!>romania
+http://www.mae.ro/en/foreign-missions/3533#815<!!3!!>address,phone,fax,website,working hours<!!3!!>romania2
+http://mfa.gov.ua/en/about-ukraine/dip-in-ukraine/missions-list/120<!!3!!>cheif,address,phone,fax,website,schedule<!!3!!>ukrain
+http://www.auswaertiges-amt.de/DE/Laenderinformationen/UsaVereinigteStaaten/VertretungenUsaVereinigteStaaten_node.html<!!3!!>Bezeichnung,Leiterin / Leiter,Ort,PLZ,Telefon,Fax,Postadresse,Öffnungszeiten,Amtsbezirk / Konsularbezirk,Abteilungen,E-Mail,Website,Sonstiges<!!3!!>germany
+
